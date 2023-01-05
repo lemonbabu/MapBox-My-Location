@@ -1,2 +1,2 @@
 include ':app'
-rootProject.name='Mapbox User Location'
+rootProject.name='AWSLocation'
